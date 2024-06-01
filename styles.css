@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    line-height: 1.5;
+}
+
+.titulo {
+    background-color: #cecece;
+}
+
+.titulo p {
+    color:darkslateblue;
+    font-size: 1.5em;
+}
+
+h1 {
+    color:rgb(38, 183, 255);
+}
+
+h2 {
+    margin-top: 1em;
+    color: darkslateblue;
+    font-weight: 500;
+    font-size: 2em;
+}
+
+.lab365 {
+    margin-top: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-lab { 
+    width: 15%;
+    height: 15%;
+}
